@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://store.bellawoo.com/sitemap.xml
